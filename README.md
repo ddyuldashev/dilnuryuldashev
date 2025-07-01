@@ -9,7 +9,7 @@ With over **50 shipped mobile apps**, I bring ideas to life—from seamless sign
 
 ## 🚀 Featured Projects
 
-### [Morfed (iOS, SwiftUI)](https://www.instagram.com/morfedapp)
+### [Morfed (iOS, SwiftUI)](https://morfed.framer.website/)
 **AI photo generation app** — Train a custom model from selfies and generate studio-quality portraits with uncanny resemblance.
 
 ---
