@@ -1,4 +1,4 @@
-I’m an iOS Engineer and Design-minded Developer passionate about building elegant, performant, and user-focused mobile experiences with SwiftUI.
+I’m an iOS Engineer, Unity AR Developer, and Design-minded Developer passionate about building elegant, performant, and user-focused mobile experiences with SwiftUI.
 
 With a background spanning XR, AI, and interactive design, I bring a mix of engineering precision and product intuition. I’ve shipped 50+ mobile apps, from polished SwiftUI interfaces and intuitive user flows to AR experiences powered by RealityKit and Unity.
 
